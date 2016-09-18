@@ -1,0 +1,11 @@
+{
+  "name": "dont_touch_my_stuff",
+  "version": "0.0.1",
+  "title": "Don't Touch My Stuff",
+  "author": "Lane LaRue",
+  "homepage": "https://github.com/luxx/factorio-no-friendly-fire",
+  "contact": "",
+  "description": "This mod prevents other players from mining, shooting, or rotating structures built by other players.",
+  "factorio_version": "0.14.3",
+  "dependencies": ["base >= 0.14.0"]
+}
